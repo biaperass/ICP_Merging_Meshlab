@@ -112,25 +112,25 @@ If you need more precise MeshLab instructions, please follow this guide: [Meshla
 
 This project was developed by:
 
-- [@Martin-Martuccio](https://github.com/Martin-Martuccio) - Martin Martuccio
+- Martin Martuccio: [@Martin-Martuccio](https://github.com/Martin-Martuccio) 
   
-- [@PSamK](https://github.com/PSamK) - Samuele Pellegrini
+- Samuele Pellegrini: [@PSamK](https://github.com/PSamK)
   
-- [@biaperass](https://github.com/biaperass) - Bianca Perasso
+- Bianca Perasso: [@biaperass](https://github.com/biaperass)
   
-- [@LorenzoMesi](https://github.com/LorenzoMesi) - Lorenzo Mesi
+- Lorenzo Mesi: [@LorenzoMesi](https://github.com/LorenzoMesi)
   
 ## Contact
 
 For questions, issues, or collaborations, please contact:
 
-- Martin Martuccio: [martinmartuccio@gmail.com](Martin:martinmartuccio@gmail.com)
+- Martin Martuccio: martinmartuccio@gmail.com
+  
+- Samuele Pellegrini: pellegrini.samuele.1@gmail.com
 
-- Samuele Pellegrini: [pellegrini.samuele.1@gmail.com](Samuele:pellegrini.samuele.1@gmail.com)
-
-- Bianca Perasso: [bianca.perasso@gmail.com](Bianca:bianca.perasso@gmail.com)
-
-- Lorenzo Mesi: [mesilorenzo@gmail.com](Lorenzo:mesilorenzo@gmail.com)
+- Bianca Perasso: bianca.perasso@gmail.com
+  
+- Lorenzo Mesi: mesilorenzo@gmail.com
 
 # Acknoledgements
  

@@ -63,7 +63,7 @@ To start the alignment process, click on the respective icon (symbolized with le
 
 6) Click **Process** to launch the ICP algorithm. Results are shown in the log window.
   
-   ![Aligned models](images/models/satiroebaccante_merge_meshlab2.png) 
+   ![Aligned models](images/models/satiroebaccante_merging_meshalb2.png) 
 
 ## Visual Customization
 

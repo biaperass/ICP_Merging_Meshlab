@@ -1,4 +1,4 @@
-# ICP_Merging_Meshlab
+# ICP Merging Meshlab
 
 ## Overview
 

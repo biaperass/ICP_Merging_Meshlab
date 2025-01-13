@@ -7,9 +7,16 @@ This project focuses on the comparison and alignment of two 3D models in SPLAT P
 ## Requirements
 
 - **MeshLab** version 2023.12 or later.
-- Two 3D models in **SPLAT PLY** format. Example models can be found in this repository in the **models** folder.
+- Two 3D models in **SPLAT PLY** format. The model used in the example can be found at this link: [Satiro e Baccante Sculpture](https://poly.cam/capture/5621D36B-36BF-4655-AE5C-B2D68DF0A851?).
 
 ## Usage
+
+### Preprocessing
+
+To simulate realistic temporal changes (such as natural degradation or erosion), we employed **Blender 4.3.0**. 
+Using Blender’s point cloud editing capabilities, you can manually remove points from specific areas of the model to mimic erosion over time. 
+This process allows you to create a second version of the model with visible differences, which can be used as second model for this project.
+The result of this preprocessing phase is another model of the same sculpture in splat PLY format.
 
 ### Import the model
 

@@ -2,11 +2,7 @@
 
 ## Overview
 
-This project focuses on comparing and aligning two different 3D models in SPLAT PLY format by using MeshLab. One model represented the complete statue, while the other simulated a broken version with missing parts. The primary objectives of this project are: 
-
-- Exploring alignment techniques available in MeshLab: Point Pairs Picking and Iterative Closest Point (ICP).
-- Understanding the process of applying transformations and alignments to 3D models.
-- Performing a merge operation to combine align models into a single output model.
+This project focuses on the comparison and alignment of two 3D models in SPLAT PLY format using [MeshLab](https://www.meshlab.net/). The first model represents the complete statue, while the second simulates a damaged version with missing parts, mimicking real-world scenarios where artifacts undergo natural degradation over time. These simulations were implemented by exploiting [Blender](https://docs.blender.org/)’s point cloud editing capabilities. The goal of the project is to explore different alignment techniques available in MeshLab, specifically Point Pairs Picking and Iterative Closest Point (ICP), to accurately align the two models. Once aligned, the models are merged into a single output, providing a basis for further analysis and visualization of changes between the two versions. Additionally, the project aims to deepen the understanding of 3D transformations, alignments, and the practical challenges associated with combining complex 3D datasets.
 
 ## Requirements
 
@@ -74,7 +70,7 @@ Color Adjustment:
 1) Select **Model1** in the Layer Dialog.
 2) Select **Points** in the Tool Bar (or in the Layer Dialog)
 3) Select **Vert** for shading
-4) Select **User-Def** for color. Select the little color square to choose a color. We impose red color to evidence the erosion parts.
+4) Select **User-Def** for color. Select the little color square to choose a color. We impose red color to evidence the missing parts.
 
    mettere foto finestra di dialogo
 

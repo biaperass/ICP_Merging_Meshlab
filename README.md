@@ -1,5 +1,9 @@
 # ICP Merging Meshlab
 
+## Acknoledgements
+
+This project was developed to explore the potential of Gaussian Splatting techniques for cultural heritage preservation, as part of the project exam for the course [Augmented and Virtual Reality](https://corsi.unige.it/off.f/2023/ins/66562) during Master's degree in Computer Engineering - Artifical Intelligence at the University of Genova.
+
 ## Overview
 
 This project focuses on the comparison and alignment of two 3D models in SPLAT PLY format using [MeshLab](https://www.meshlab.net/). The first model represents the complete statue, while the second simulates a damaged version with missing parts, mimicking real-world scenarios where artifacts undergo natural degradation over time. These simulations were implemented by exploiting [Blender](https://docs.blender.org/)’s point cloud editing capabilities. The goal of the project is to explore different alignment techniques available in MeshLab, specifically Point Pairs Picking and Iterative Closest Point (ICP), to accurately align the two models. Once aligned, the models are merged into a single output, providing a basis for further analysis and visualization of changes between the two versions. Additionally, the project aims to deepen the understanding of 3D transformations, alignments, and the practical challenges associated with combining complex 3D datasets. 
@@ -138,10 +142,6 @@ For questions, issues, or collaborations, please contact:
 - Bianca Perasso: bianca.perasso@gmail.com
   
 - Lorenzo Mesi: mesilorenzo@gmail.com
-
-# Acknoledgements
- 
-This project was developed to explore the potential of Gaussian Splatting techniques for cultural heritage preservation, as part of the project exam for the course [Augmented and Virtual Reality](https://corsi.unige.it/off.f/2023/ins/66562) during Master's degree in Computer Engineering - Artifical Intelligence at the University of Genova.
 
 # License
 
